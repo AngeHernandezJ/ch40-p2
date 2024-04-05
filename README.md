@@ -1,3 +1,4 @@
 # ch40-p2
 Segunda prueba para verificar aprendizaje
 Verificación: correcta
+Configuración: NA
